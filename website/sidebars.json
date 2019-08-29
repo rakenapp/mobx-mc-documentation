@@ -1,0 +1,14 @@
+{
+  "docs": {
+    "Introduction": ["why-mobx-mc", "concept-overview"],
+    "Tutorial": ["installation", "create-model", "create-collection"],
+    "Model": [
+      "model-api-review",
+      "modelId"
+    ],
+    "Collection": [
+      "collection-api-review",
+      "collectionApplyOptions"
+    ]
+  }
+}
